@@ -18,3 +18,5 @@ Simple Interest = (Principal × Rate × Time) / 100
 
 The calculator displays the simple interest and total amount.
 Simple Interest Calculator - Bash project.
+Pull request demonstration.
+Pull request demonstration.
